@@ -82,18 +82,3 @@ cd Rest-Api && go run .
 - `practiceProject` reads `prices.txt` and writes JSON outputs (see `result_*.json`).
 
 ---
-
-## Want to push this to a Git repo? 🚀
-
-```bash
-cd /path/to/Go
-git init
-git add .
-git commit -m "Initial: Go learning workspace"
-# add remote (replace URL) and push
-git remote add origin git@github.com:youruser/go-learning.git
-git branch -M main
-git push -u origin main
-```
-
----
