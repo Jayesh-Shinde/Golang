@@ -97,19 +97,3 @@ git push -u origin main
 ```
 
 ---
-
-## Contributing / next steps ✅
-
-- Add new examples in new folders (follow existing naming and add `go.mod` if it's a standalone module).
-- Add unit tests where appropriate (`*_test.go`).
-- Add a `LICENSE` if you plan to publish.
-
----
-
-If you want, I can:
-
-- add a `LICENSE` file, or
-- create GitHub Actions to run `go test` on pushes, or
-- convert the workspace into a single monorepo with a top-level `go.work`.
-
-Pick any one and I will add it for you. 👇
